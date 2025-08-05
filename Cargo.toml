@@ -15,6 +15,9 @@ categories = ["compilers"]
 keywords = ["typst"]
 readme = "README.md"
 
+[patch.crates-io]
+comemo = { git = "https://github.com/bluss/comemo.git", rev = "a7c3961acb8a2c73cca94e6b1e1a57dde19a9ff2" }
+
 [workspace.dependencies]
 typst = { path = "crates/typst", version = "0.13.1" }
 typst-cli = { path = "crates/typst-cli", version = "0.13.1" }
