@@ -451,7 +451,7 @@ checksum = "5b63caa9aa9397e2d9480a9b13673856c78d8ac123288526c37d7839f2a86990"
 [[package]]
 name = "comemo"
 version = "0.5.0"
-source = "git+https://github.com/bluss/comemo.git?rev=a7c3961acb8a2c73cca94e6b1e1a57dde19a9ff2#a7c3961acb8a2c73cca94e6b1e1a57dde19a9ff2"
+source = "git+https://github.com/bluss/comemo.git?rev=c317feb3587ace46eb33fdd7cbd65b08ea87ba87#c317feb3587ace46eb33fdd7cbd65b08ea87ba87"
 dependencies = [
  "comemo-macros",
  "parking_lot",
@@ -463,7 +463,7 @@ dependencies = [
 [[package]]
 name = "comemo-macros"
 version = "0.5.0"
-source = "git+https://github.com/bluss/comemo.git?rev=a7c3961acb8a2c73cca94e6b1e1a57dde19a9ff2#a7c3961acb8a2c73cca94e6b1e1a57dde19a9ff2"
+source = "git+https://github.com/bluss/comemo.git?rev=c317feb3587ace46eb33fdd7cbd65b08ea87ba87#c317feb3587ace46eb33fdd7cbd65b08ea87ba87"
 dependencies = [
  "proc-macro2",
  "quote",
